@@ -59,7 +59,7 @@ They need a system that can:
 
 ---
 
-#### How the Solution Solves the Problem
+### How the Solution Solves the Problem
 
 By digitizing the library’s operations with this relational database system:
 
