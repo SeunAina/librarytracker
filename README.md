@@ -1,4 +1,4 @@
-##Library Tracker - ALibrary Management System (SQL Basics Project)
+## Library Tracker - ALibrary Management System (SQL Basics Project)
 
 ### Introduction
 
