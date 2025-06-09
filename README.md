@@ -1,12 +1,12 @@
-###📚 Library Management System (SQL Basics Project)
+##Library Tracker - ALibrary Management System (SQL Basics Project)
 
-#### Introduction
+### Introduction
 
 This project simulates a **Library Management System** designed to demonstrate foundational SQL concepts. It mimics the real-world operations of a local library by tracking books, members, and borrowing records. The project showcases relational database design, CRUD operations, filtering, joins, and aggregate queries.
 
 ---
 
-#### Objective
+### Objective
 
 The goal of this project is to help reinforce SQL skills by:
 
@@ -17,7 +17,7 @@ The goal of this project is to help reinforce SQL skills by:
 
 ---
 
-#### Problem Statement
+### Problem Statement
 
 A local library seeks to digitize its records to better manage:
 
@@ -32,9 +32,9 @@ They need a system that can:
 
 ---
 
-#### Solutions Provided
+### Solutions Provided
 
-#### 1. Database & Table Creation
+### 1. Database & Table Creation
 
 - Created three core tables: `Books`, `Members`, and `Borrow_Records`.
 - Implemented:
